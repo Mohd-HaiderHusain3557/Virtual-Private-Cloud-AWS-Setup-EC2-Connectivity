@@ -87,8 +87,8 @@ This guide provides a step-by-step walkthrough for creating a custom Virtual Pri
 
 ---
 
-### **Step 9: and 10 : make sure you select - your VPC created in the routing table then confirm all setup
-
+### **Step 9: and 10: make sure you select - your VPC created in the routing table then confirm all setup
+---
 ## Step 11: Attach Internet Gateway to VPC
 
 To allow instances in your public subnet to access the internet:
@@ -102,10 +102,8 @@ To allow instances in your public subnet to access the internet:
 5. Choose your VPC (e.g., `vpc01`)
 6. Click **Attach internet gateway**
 
-> 🌐 This links your VPC to the internet—essential for enabling public access to EC2 instances in public subnets.
+> This links your VPC to the internet—essential for enabling public access to EC2 instances in public subnets.
 ---  
-Step 10: Test Internet Connectivity
-On the EC2 terminal, run:
 
 
 
